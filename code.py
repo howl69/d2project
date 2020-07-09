@@ -83,7 +83,7 @@ with open('heroes_stats.json', 'r') as f:
     #     k = s[i].split(';')
     #     if k[d['id']]=='111':
     #         break
-    # print(k[d['name']])
+    # print(k[d['name']])   blablabla
 
 
 # size = 4
